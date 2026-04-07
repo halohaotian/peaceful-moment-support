@@ -3,7 +3,7 @@
 Thank you for using Peaceful Moment!
 ## Contact Us
 If you have any questions, feedback, or need assistance, please contact us:
-**Email:** your_email@gmail.com
+**Email:** halohaotianwu@gmail.com
 ## Frequently Asked Questions
 **Q: How do I cancel my subscription?**
 A: You can cancel your subscription anytime through iPhone Settings > Apple ID > Subscriptions.
