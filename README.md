@@ -12,6 +12,6 @@ A: No. You will not be charged until the free trial period ends. You can cancel 
 **Q: How do I restore my purchase?**
 A: Open the app and tap "Restore Purchase" in the settings menu.
 **Q: The app is not working properly. What should I do?**
-A: Please try restarting the app or reinstalling it. If the issue persists, contact us at your_email@gmail.com
+A: Please try restarting the app or reinstalling it. If the issue persists, contact us at halohaotianwu@gmail.com
 ## Privacy Policy
 We respect your privacy. Peaceful Moment does not collect or share personal data without your consent.
